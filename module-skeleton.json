@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-accounts-nuxt",
+  "capabilityKey": "liberusoftware/module-control-panel-accounts",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-control-panel-accounts-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/control-panel/nextjs/accounts.md",
+  "presentationPlan": "projects/control-panel/nuxt/accounts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
